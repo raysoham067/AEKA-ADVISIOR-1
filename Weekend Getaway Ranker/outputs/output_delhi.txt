@@ -1,0 +1,70 @@
+Source City: Delhi
+================================================================================
+
+Top 5 Weekend Destinations:
+
+1. Buddh International Circuit
+   City: Greater Noida
+   Time needed: 2.0 hours
+   Google Rating: 4.6/5.0
+   Entrance Fee: ₹1500
+   Reviews: 7.4 lakhs
+   Airport within 50km: Yes
+   DSLR Allowed: Yes
+   Best Time to Visit: All
+   Final Score: 4.3251
+
+--------------------------------------------------------------------------------
+
+2. Gateway of India
+   City: Mumbai
+   Time needed: 1.0 hours
+   Google Rating: 4.6/5.0
+   Entrance Fee: ₹0
+   Reviews: 3.6 lakhs
+   Airport within 50km: Yes
+   DSLR Allowed: Yes
+   Best Time to Visit: All
+   Final Score: 3.1700
+
+--------------------------------------------------------------------------------
+
+3. Taj Mahal
+   City: Agra
+   Time needed: 2.0 hours
+   Google Rating: 4.6/5.0
+   Entrance Fee: ₹50
+   Reviews: 2.25 lakhs
+   Airport within 50km: Yes
+   DSLR Allowed: Yes
+   Best Time to Visit: Morning
+   Final Score: 2.9800
+
+--------------------------------------------------------------------------------
+
+4. Golden Temple (Harmandir Sahib)
+   City: Amritsar
+   Time needed: 1.5 hours
+   Google Rating: 4.9/5.0
+   Entrance Fee: ₹0
+   Reviews: 1.9 lakhs
+   Airport within 50km: Yes
+   DSLR Allowed: Yes
+   Best Time to Visit: All
+   Final Score: 2.6300
+
+--------------------------------------------------------------------------------
+
+5. Mysore Palace
+   City: Mysore
+   Time needed: 2.0 hours
+   Google Rating: 4.6/5.0
+   Entrance Fee: ₹50
+   Reviews: 2.5 lakhs
+   Airport within 50km: Yes
+   DSLR Allowed: Yes
+   Best Time to Visit: All
+   Final Score: 2.6120
+
+--------------------------------------------------------------------------------
+
